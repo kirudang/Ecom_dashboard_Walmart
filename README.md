@@ -37,6 +37,9 @@ Power BI will be used to create visualizations and build the dashboard. Connect 
 Design the data model in Power BI to establish relationships between different data tables. This will allow you to create more insightful visualizations by combining data from multiple sources.
 It's advised to follow 3NF to optimize data operation. In this project, I used Star Schema to model the data relation.
 
+![image](https://github.com/kirudang/Ecom_dashboard_Walmart/assets/91911269/f7d8fac7-ddf6-43e8-adb8-c45d384aa79a)
+
+
 ## Data Cleaning using Power Query
 
 Utilize Power Query within Power BI to clean and transform the data as needed. This step is crucial for ensuring accurate and consistent visualizations.
