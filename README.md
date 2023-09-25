@@ -3,6 +3,7 @@
 
 This repository contains the code and resources for building an Ecommerce Dashboard for Walmart using Power BI. The purpose of this project is to create an interactive dashboard that provides insights into key performance indicators (KPIs) related to Walmart's ecommerce operations.
 
+You can access the dashboard here: https://app.powerbi.com/groups/me/reports/c3817441-f2ea-4c48-8c24-7d116df09238?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&pbi_source=linkShare&bookmarkGuid=13d7f511-8f94-4bb6-addf-3a8b1504202e
 
 https://github.com/kirudang/Ecom_dashboard_Walmart/assets/91911269/3d696c0e-58ef-40ed-a74d-7942ac154365
 
